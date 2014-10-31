@@ -1,4 +1,4 @@
-#翻墙找 shadowsocks，帐号问 autoshadower：自动、自动、以及自动
+#翻墙找 shadowsocks，帐号问 autoshadower：懒人之友
 yangyang.gnu@gmail.com  
 http://yangyangwithgnu.github.io/  
 2014-10-31 22:30:33
@@ -8,7 +8,7 @@ http://yangyangwithgnu.github.io/
 
 **捐赠：如果觉得 autoshadower 有用，可以考虑捐赠点碎银，支付宝 yangyang.gnu@gmail.com （https://shenghuo.alipay.com/send/payment/fill.htm ），不好意思，$_$**
 
-**讨论**：任何意见建议移步 XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**讨论**：任何意见建议移步 http://www.v2ex.com/t/143084
 
 **注意**  
 
@@ -91,7 +91,7 @@ $ make && make install
 * a 模式（available），查找所有可用证书，该模式耗时短；
 * r 模式（region），查找所有可用证书，并核实证书的出口 IP 所在区域，该模式耗时较短；
 * s 模式（avarspeed），查找所有可用证书，并核实证书的访问速度，该模式耗时较长；
-* all 模式，包含 available、region、avarspeed 等模式，该模式耗时长；
+* all 模式，包含 available、region、avarspeed 等模式，该模式耗时长；  
 
 默认为 available。
 
