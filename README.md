@@ -57,11 +57,11 @@ The default directory is home directory or C:\
 
 --mode  
 \---------------  
-Set the mode which how to find SS certificate. there are four modes: 
+Set the mode which how to find SS certificate. there are four modes:   
   0) a (available). just find which SS certificate is available;  
   1) r (region). find which SS certificate is available, and the region of certificate out ip;  
   2) s (averspeed). find which SS certificate is available, and the average speed of certificate out ip;  
-  3) all. included a, r, and s. 
+  3) all. included a, r, and s.   
 default a
 
 That's all. Any suggestions let me know by yangyang.gnu@gmail.com or http://yangyangwithgnu.github.io/ , big thanks to you.
