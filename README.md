@@ -6,7 +6,10 @@ http://yangyangwithgnu.github.io/
 
 ##公告
 
-**捐赠：如果觉得 autoshadower 有用，可以考虑捐赠点碎银，支付宝 yangyang.gnu@gmail.com （https://shenghuo.alipay.com/send/payment/fill.htm ），不好意思，$_$**
+* **捐赠：支付宝 yangyang.gnu@gmail.com 。支付宝链接 https://shenghuo.alipay.com/send/payment/fill.htm?optEmail=yangyang.gnu@gmail.com ，支付宝二维码 $_$**
+<div align="center">
+<img src="https://raw.githubusercontent.com/yangyangwithgnu/yangyangwithgnu.github.io/master/pics/donate_qr.png" alt=""/><br>
+</div>
 
 **讨论**：任何意见建议移步 http://www.v2ex.com/t/143084
 
@@ -100,7 +103,7 @@ $ make && make install
 ```
 $ autoshadower
 ```
-如上所说，autoshadower 为你测试它能获取的帐号是否可用，若可用它会在屏幕上输出 sslocal 的命令行选项，你自己复制运行即可，类似
+如上所说，autoshadower 为你测试它能获取的帐号是否可用，若可用它会在屏幕上输出 sslocal 的命令行选项，你直接复制运行即可，类似
 
 >
 \\(\^o\^)/. this SS certificate available. now you can issue SS proxy as follow:  
