@@ -113,12 +113,12 @@ $ autoshadower
 你将第二行复制粘贴至命令行中运行即可：
 
 ```
-sslocal -s "la11.wfg.pw" -p 47265 -k "efmoe.panny" -b "127.0.0.1" -l 1080 -m "AES-128-CFB" -t 512
+$ sslocal -s "la11.wfg.pw" -p 47265 -k "efmoe.panny" -b "127.0.0.1" -l 1080 -m "AES-128-CFB" -t 512
 ```
 或者，采用 autoshadower 为你生成的证书文件：
 
 ```
-sslocal -c ~/1080.json
+$ sslocal -c ~/1080.json
 ```
 
 同理，要想测试帐号的速度，--mode 指定为 s 即可。简单得很。
