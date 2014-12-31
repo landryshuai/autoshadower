@@ -1,12 +1,12 @@
 #翻墙找 shadowsocks，帐号问 autoshadower：懒人之友
-yangyang.gnu@gmail.com  
+yangyangwithgnu@yeah.net  
 http://yangyangwithgnu.github.io/  
 2014-10-31 22:30:33
 
 
 ##公告
 
-* **捐赠：支付宝 yangyang.gnu@gmail.com 。支付宝链接 https://shenghuo.alipay.com/send/payment/fill.htm?optEmail=yangyang.gnu@gmail.com ，支付宝二维码 $_$**
+* **捐赠：支付宝 yangyangwithgnu@yeah.net 。支付宝链接 https://shenghuo.alipay.com/send/payment/fill.htm?optEmail=yangyangwithgnu@yeah.net ，支付宝二维码 $_$**
 <div align="center">
 <img src="https://raw.githubusercontent.com/yangyangwithgnu/yangyangwithgnu.github.io/master/pics/donate_qr.png" alt=""/><br>
 </div>
@@ -55,7 +55,7 @@ Show current version.
 
 --path  
 \---------------  
-Set the path to save SS certificate files. the rule of subdir is SS_certs@@mmddhhmmss, the rule of shadowsocks certificate file is localport.json or localport-[avarspeed]-[region].json. 
+Set the path to save SS certificate files. the rule of subdir is SS_certs@mmddhhmmss, the rule of shadowsocks certificate file is localport.json or localport-[avarspeed]-[region].json. 
 The default directory is home directory or C:\ 
 
 --mode  
@@ -67,7 +67,7 @@ Set the mode which how to find SS certificate. there are four modes:
   3) all. included a, r, and s.   
 default a
 
-That's all. Any suggestions let me know by yangyang.gnu@gmail.com or http://yangyangwithgnu.github.io/ , big thanks to you.
+That's all. Any suggestions let me know by yangyangwithgnu@yeah.net or http://yangyangwithgnu.github.io/ , big thanks to you.
 
 
 ##【背景】
