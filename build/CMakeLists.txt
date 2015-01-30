@@ -12,7 +12,7 @@ SET(SRC_LIST ../src/main.cpp
              #../src/lib/self/Jslink.cpp
              #../src/lib/self/Dbops.cpp
              ../src/lib/self/Certificate.cpp)
-SET(CMAKE_EXE_LINKER_FLAGS "-lcurl -lpthread")
+SET(CMAKE_EXE_LINKER_FLAGS "-lcurl -lpthread -liconv")
 
 # linux
 #>>>>>>>>>>>>>>>>>>>>>>
